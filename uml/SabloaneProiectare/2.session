@@ -1,0 +1,15 @@
+window_sizes 1940 969 272 1662 853 64
+cleanlooks_style
+diagrams
+  active  classdiagram_ref 141314 // Proxy
+    1329 682 100 A4 0 0
+end
+show_stereotypes
+selected classrelation_ref 145026 // <directional composition>
+open
+  classview_ref 134530 // Lab2
+  class_ref 142210 // Subject
+  class_ref 142338 // RealSubject
+  class_ref 142466 // Proxy
+end
+end
